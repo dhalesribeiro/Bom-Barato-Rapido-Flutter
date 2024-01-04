@@ -21,4 +21,4 @@ Alguns recursos para você começar se este for seu primeiro projeto Flutter:
 Para obter ajuda para começar a desenvolver com Flutter, consulte:
 
 [Documentação on-line](https://docs.flutter.dev/), que oferece tutoriais,
-exemplos, orientações sobre desenvolvimento de apps e uma referência completa de API.gu
+exemplos, orientações sobre desenvolvimento de apps e uma referência completa de API.
