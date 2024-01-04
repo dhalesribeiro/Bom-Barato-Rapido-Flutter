@@ -1,16 +1,24 @@
-# bom_barato_rapido
+# Como deseja seu projeto?
 
-A new Flutter project.
+Todos querem um projeto Bom, Barato e Rápido não é verdade?
 
-## Getting Started
+<p>
+Porém, um trabalho de qualidade exige tempo e planejamento e mesmo que as pessoas sejam qualificadas para o projeto é sempre bom ter um tempinho para se dedicar nos detalhes. Assim é possivel cobrar um valor justo e entregar um trabalho de qualidade.
+</p>
 
-This project is a starting point for a Flutter application.
+## Começando...
 
-A few resources to get you started if this is your first Flutter project:
+Aplicativo simples de estudo em flutter.<br>
+Contém 3 simples Switchs (Bom, Barato e Rápido) onde são ativados e desativados, porém quando existem dois ativos, ao menos 1 deve ficar desativado...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Este projeto é um ponto de partida para uma aplicação Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Alguns recursos para você começar se este for seu primeiro projeto Flutter:
+
+- [Lab: Escreva seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Exemplos úteis de Flutter](https://docs.flutter.dev/cookbook)
+
+Para obter ajuda para começar a desenvolver com Flutter, consulte:
+
+[Documentação on-line](https://docs.flutter.dev/), que oferece tutoriais,
+exemplos, orientações sobre desenvolvimento de apps e uma referência completa de API.gu
